@@ -7,6 +7,9 @@ public class UpdatedGIT {
 			
 			int a =10;
 			System.out.println(a);
+			
+			double d = 23.543;
+			System.out.println(d);
 			}
 
 		public static void main(String[] args) {
