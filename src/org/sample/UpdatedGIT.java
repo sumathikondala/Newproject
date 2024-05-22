@@ -7,6 +7,10 @@ public class UpdatedGIT {
 			
 			int a =10;
 			System.out.println(a);
+			
+			float f = 38.45f;
+			System.out.println(f);
+			
 			}
 
 		public static void main(String[] args) {
