@@ -10,7 +10,12 @@ public class UpdatedGIT {
 			
 			float f = 38.45f;
 			System.out.println(f);
+
 			
+			double d = 23.543;
+			System.out.println(d);
+				
+
 			}
 
 		public static void main(String[] args) {
